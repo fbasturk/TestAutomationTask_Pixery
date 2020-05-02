@@ -1,0 +1,77 @@
+2020-05-03T01:11:46.351+0300 INFO 1- Pixery's Funimate test set begins.
+2020-05-03T01:11:46.360+0300 INFO 2- Platform Name: android is getting ready to run.
+2020-05-03T01:12:05.009+0300 INFO 3- Driver created for Funimate Tests
+
+2020-05-03T01:12:05.010+0300 INFO 4- Starting test scenarios in Funimate Tests
+2020-05-03T01:12:09.114+0300 INFO 	S.1- Scenario Start: Sign Up with Invalid Username for Funimate Test in Funimate
+2020-05-03T01:12:09.115+0300 INFO  		 1. Step: Clicking the 'create account' button
+2020-05-03T01:12:10.140+0300 INFO  		 2. Step: Clicking the 'Email' button
+2020-05-03T01:12:11.430+0300 INFO  		 3. Step: The given item is writing to Username
+2020-05-03T01:12:14.601+0300 INFO  		 4. Step: The given item is writing to Email
+2020-05-03T01:12:18.840+0300 INFO  		 5. Step: The given item is writing to Password
+2020-05-03T01:12:20.893+0300 INFO  		 6. Step: Clicking the 'AllowUsToShow' button
+2020-05-03T01:12:21.988+0300 INFO  		 7. Step: Clicking the '✔' button
+2020-05-03T01:12:22.658+0300 INFO  		 8. Step: Checking the invalid Username message.
+2020-05-03T01:12:24.137+0300 INFO 	S.1- Scenario Finish: Sign Up with Invalid Username for Funimate STATUS= FAILED
+
+2020-05-03T01:12:29.217+0300 INFO 	S.2- Scenario Start: Sign Up with Invalid Email for Funimate Test in Funimate
+2020-05-03T01:12:29.218+0300 INFO  		 1. Step: Clicking the 'create account' button
+2020-05-03T01:12:29.968+0300 INFO  		 2. Step: Clicking the 'Email' button
+2020-05-03T01:12:30.649+0300 INFO  		 3. Step: The given item is writing to Username
+2020-05-03T01:12:33.686+0300 INFO  		 4. Step: The given item is writing to Email
+2020-05-03T01:12:37.578+0300 INFO  		 5. Step: The given item is writing to Password
+2020-05-03T01:12:41.899+0300 INFO  		 6. Step: Clicking the 'AllowUsToShow' button
+2020-05-03T01:12:42.554+0300 INFO  		 7. Step: Clicking the '✔' button
+2020-05-03T01:12:43.991+0300 INFO  		 8. Step: Checking the invalid Email message.
+2020-05-03T01:12:45.002+0300 INFO 	S.2- Scenario Finish: Sign Up with Invalid Email for Funimate STATUS= PASSED
+
+2020-05-03T01:12:49.280+0300 INFO 	S.3- Scenario Start: Sign Up with Invalid Password for Funimate Test in Funimate
+2020-05-03T01:12:49.280+0300 INFO  		 1. Step: Clicking the 'create account' button
+2020-05-03T01:12:49.819+0300 INFO  		 2. Step: Clicking the 'Email' button
+2020-05-03T01:12:50.663+0300 INFO  		 3. Step: The given item is writing to Username
+2020-05-03T01:12:53.710+0300 INFO  		 4. Step: The given item is writing to Email
+2020-05-03T01:12:56.736+0300 INFO  		 5. Step: The given item is writing to Password
+2020-05-03T01:12:59.225+0300 INFO  		 6. Step: Clicking the 'AllowUsToShow' button
+2020-05-03T01:13:00.163+0300 INFO  		 7. Step: Clicking the '✔' button
+2020-05-03T01:13:00.794+0300 INFO  		 8. Step: Checking the invalid Password message.
+2020-05-03T01:13:01.541+0300 INFO 	S.3- Scenario Finish: Sign Up with Invalid Password for Funimate STATUS= PASSED
+
+2020-05-03T01:13:05.688+0300 INFO 	S.4- Scenario Start: Sign Up for Funimate Test in Funimate
+2020-05-03T01:13:05.688+0300 INFO  		 1. Step: Clicking the 'create account' button
+2020-05-03T01:13:06.901+0300 INFO  		 2. Step: Clicking the 'Email' button
+2020-05-03T01:13:07.641+0300 INFO  		 3. Step: The given item is writing to Username
+2020-05-03T01:13:10.855+0300 INFO  		 4. Step: The given item is writing to Email
+2020-05-03T01:13:13.794+0300 INFO  		 5. Step: The given item is writing to Password
+2020-05-03T01:13:17.230+0300 INFO  		 6. Step: Clicking the 'AllowUsToShow' button
+2020-05-03T01:13:18.108+0300 INFO  		 7. Step: Clicking the '✔' button
+2020-05-03T01:13:19.242+0300 INFO  		 8. Step: Checking 'MainActivity' visit
+2020-05-03T01:13:21.454+0300 INFO 	S.4- Scenario Finish: Sign Up for Funimate STATUS= PASSED
+
+2020-05-03T01:13:25.921+0300 INFO 	S.5- Scenario Start: Login with Invalid Password for Funimate Test in Funimate
+2020-05-03T01:13:25.922+0300 INFO  		 1. Step: Clicking the 'login' button
+2020-05-03T01:13:26.453+0300 INFO  		 2. Step: The given item is writing to Username
+2020-05-03T01:13:29.708+0300 INFO  		 3. Step: The given item is writing to Password
+2020-05-03T01:13:32.276+0300 INFO  		 4. Step: Clicking the '✔' button
+2020-05-03T01:13:33.056+0300 INFO  		 5. Step: Checking the invalid Password message.
+2020-05-03T01:13:34.443+0300 INFO 	S.5- Scenario Finish: Login with Invalid Password for Funimate STATUS= PASSED
+
+2020-05-03T01:13:38.706+0300 INFO 	S.6- Scenario Start: Login for Funimate Test in Funimate
+2020-05-03T01:13:38.706+0300 INFO  		 1. Step: Clicking the 'login' button
+2020-05-03T01:13:39.472+0300 INFO  		 2. Step: The given item is writing to Username
+2020-05-03T01:13:42.726+0300 INFO  		 3. Step: The given item is writing to Password
+2020-05-03T01:13:45.658+0300 INFO  		 4. Step: Clicking the '✔' button
+2020-05-03T01:13:46.313+0300 INFO  		 5. Step: Checking 'MainActivity' visit
+2020-05-03T01:13:48.517+0300 INFO 	S.6- Scenario Finish: Login for Funimate STATUS= PASSED
+
+2020-05-03T01:13:52.299+0300 INFO 	S.7- Scenario Start: Forgot for Funimate Test in Funimate
+2020-05-03T01:13:52.299+0300 INFO  		 1. Step: Clicking the 'login' button
+2020-05-03T01:13:53.283+0300 INFO  		 2. Step: Clicking the 'Forgot' button
+2020-05-03T01:13:54.354+0300 INFO  		 3. Step: The given item is writing to usernameOrMail
+2020-05-03T01:13:55.949+0300 INFO  		 4. Step: Clicking the 'reset password' button
+2020-05-03T01:13:57.214+0300 INFO  		 5. Step: Checking the message of 'reset password' button
+2020-05-03T01:13:58.862+0300 INFO 	S.7- Scenario Finish: Forgot for Funimate STATUS= PASSED
+
+2020-05-03T01:14:03.074+0300 INFO 5- Test Name: Funimate 	Complete Time:136701
+									PlatformName: android 	APP Version:8.0.1.4
+									Number of scenarios run= 7
+										Pass: 6		Fail: 1
